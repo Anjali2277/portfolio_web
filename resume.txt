@@ -1,0 +1,54 @@
+Anjali
+
+anjali012ntit22@igdtuw.ac.in  ||+91-8076681030||https://linkedin.com/in/anjali-singh-943a07255
+
+
+Education
+
+LADY IRWIN SR. SEC. SCHOOL, LOCATION — SHRIMANT MADHAV RAO SCINDIA MARG, NEW DELHI-110001
+APR  2009 - JUN 2022
+Passed secondary education in CBSE Board with 92.8% 
+                                                                                                                                             High school graduate with a concentrated focus on PCM subjects, along with computer science with (90%)                                                                                                                                                                                                                                     Cracked JEE MAINS (93.5 percentile) & qualified for JEE ADV.                                                                                                                                        Gave the NDA exam in 2021 and 2022.
+INDIRA GANDHI DELHI TECHNICAL UNIVERSITY, LOCATION — JAMES CHURCH, NEW CHURCH RD, KASHMERE GATE, NEW DELHI-110006
+NOV 2022 - JUL2026
+Pursuing Bachelor of Technology in Information Technology, actively engaging in coursework and projects to enhance proficiency in IT and contribute to the evolving technological landscape. Currently having 8.4 CGPA.
+
+Project Work:
+
+AMAZON_CLONE
+Developed a functional clone website inspired by Amazon, showcasing a comprehensive understanding of web development technologies. Implemented key features such as product catalog, shopping cart functionality, and a seamless checkout process. This project reflects a hands-on-approach to front end development encompassing HTML and CSS.
+GitHub link:- https://github.com/Anjali2277/Amazon_clone
+
+PORTFOLIO_WEBSITE
+Embark on a visual journey through my skills and projects with my responsive portfolio website. Meticulously designed for adaptability, this project ensures an immersive experience across devices. Dive into a showcase of diverse projects, each accompanied by detailed insights and technologies used.
+GitHub link:- https://github.com/Anjali2277/portfolio_anjali
+
+
+Experience 
+
+Serves as a Python and ml intern in AI CLUB IGDTUW for 3 months. Gained a proficient knowledge of NumPy, pandas, google collab and jupyter notebook. Showcasing the learning by developing a “weather prediction” project
+
+
+Skills & Abilities
+•	Programming Languages:     C, C++, Python, HTML, CSS
+•	Database Management:       MYSQL
+                       
+•	Software Tools:             VS Code, Google collab, Jupyter Notebook
+
+•	Problem solving of complex DSA questions.
+
+•	Adaptability: Flexible approach to learning new technologies 
+
+•	Collaboration: Proven teamwork and communication skills through group projects and
+       collaboration coding efforts in summer internship.
+
+
+Position of Responsibility
+
+•	Associate in PR Team of TAARANGANA                  
+•	Head Coord in EM Team of TAARANGANA        
+
+
+
+	
+
